@@ -1,0 +1,3 @@
+[submodule "plugins/ckops_ads"]
+	path = plugins/ckops_ads
+	url = https://github.com/charkops/ckops_ads
